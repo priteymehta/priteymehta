@@ -2,8 +2,6 @@
 
 🚀 I'm a passionate web development professional with expertise in both front-end and back-end technologies. I love building seamless and responsive applications that enhance user experiences. Let's dive into my world of code!
 
-![npm](https://img.shields.io/npm/v/api-response-format)
-
 ## About Me
 
 I'm a software developer with a strong foundation in full-stack web development. My journey began with a fascination for crafting dynamic user interfaces and evolved into a deep understanding of server-side logic and data management.
@@ -44,5 +42,10 @@ I thrive in various technologies, from crafting intricate front-end designs to a
 📫 Feel free to reach out if you're interested in collaboration or have any questions about my work:
 
 - LinkedIn: https://www.linkedin.com/in/pritey-mehta-327985158/
+
+Checkout my npm packages here ! 
+
+![npm](https://img.shields.io/npm/v/api-response-format)
+
 
 Looking forward to connecting with fellow developers and tech enthusiasts!
